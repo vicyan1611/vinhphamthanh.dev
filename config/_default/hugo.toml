@@ -1,12 +1,19 @@
 baseURL = "https://vinhphamthanh.dev/"
-# [en, zh-cn, fr, ...] determines default content language
-defaultContentLanguage = "en"
 # language code
+defaultContentLanguage = 'en'
 languageCode = "en"
 title = "vinhphamthanh.dev"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    languageCode = 'en'
+  [languages.vi]
+    languageName = 'Vietnamese'
+    languageCode = 'vi'
 
 [params]
   # DoIt theme version
