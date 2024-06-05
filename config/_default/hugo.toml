@@ -10,7 +10,7 @@ theme = "DoIt"
 
 [params]
   # DoIt theme version
-  version = "0.2.X"
+  version = "0.4.X"
   [params.header]
     # DoIt NEW | 0.2.11 Theme change mode
     # theme change mode ("switch", "select")
@@ -31,40 +31,11 @@ theme = "DoIt"
     # typing speed between each step (measured in milliseconds)
     speed = 100
     # blinking speed of the cursor (measured in milliseconds)
-    cursorSpeed = 1000
+    cursorSpeed = 5000
     # character used for the cursor (HTML format is supported)
-    cursorChar = "."
+    cursorChar = "|"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
     duration = -1
-
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Posts"
-    url = "/posts/"
-    # title will be shown when you hover on this menu link
-    title = ""
-    weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-    weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-    weight = 3
 
 # Markup related configuration in Hugo
 [markup]
