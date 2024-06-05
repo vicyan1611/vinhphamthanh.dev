@@ -83,15 +83,10 @@
                     href="/categories/" > Categories </a><span class="menu-item delimiter"></span><button class="menu-item language" aria-label="Select Language">English<svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
                     <select class="language-select" aria-label="Select Language" id="language-select-desktop"
-                        onchange="location = this.value;"><option value="/vi/" >Vietnamese</option><option value="/"  selected>English</option></select>
-                </button><button class="menu-item theme-select" aria-label="Switch Theme">
+                        onchange="location = this.value;"><option value="/"  selected>English</option><option value="/vi/" >Vietnamese</option></select>
+                </button><button class="menu-item theme-switch" aria-label="Switch Theme">
                     <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
-                    <select class="color-theme-select" id="theme-select-desktop" aria-label="Switch Theme">
-                        <option value="light">Light</option>
-                        <option value="dark">Dark</option>
-                        <option value="auto">Auto</option>
-                    </select>
                 </button></div>
         </div>
     </div>
@@ -105,17 +100,12 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="" >Posts</a><a class="menu-item" href="/tags/" title="" >Tags</a><a class="menu-item" href="/categories/" title="" >Categories</a><button class="menu-item theme-select tw-w-full" aria-label="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="" >Posts</a><a class="menu-item" href="/tags/" title="" >Tags</a><a class="menu-item" href="/categories/" title="" >Categories</a><button class="menu-item theme-switch tw-w-full" aria-label="Switch Theme">
                 <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
-                <select class="color-theme-select" id="theme-select-mobile" aria-label="Switch Theme">
-                    <option value="light">Light</option>
-                    <option value="dark">Dark</option>
-                    <option value="auto">Auto</option>
-                </select>
             </button><button class="menu-item tw-w-full" title="">English<svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
-                <select class="language-select" title="" onchange="location = this.value;"><option value="/vi/" >Vietnamese</option><option value="/"  selected>English</option></select>
+                <select class="language-select" title="" onchange="location = this.value;"><option value="/"  selected>English</option><option value="/vi/" >Vietnamese</option></select>
             </button></div>
     </div>
 </header>
@@ -125,13 +115,17 @@
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
 </div><main class="main">
-            <div class="container"><div class="page home" posts><div class="home-profile"></div><article class="single summary"><h1 class="single-title">
-        <a href="/posts/first_post/">First_post</a>
+            <div class="container"><div class="page home" posts><div class="home-profile"></div><article class="single summary"><div class="featured-image-preview">
+            <a href="/posts/yes-another-blog-again/" aria-label=Yes,&#32;Another&#32;Blog&#32;Again>
+                <img  loading="eager" src="/posts/yes-another-blog-again/featured.jpg"  sizes="(max-width: 680px) 100vw, (max-width: 1000px) 80vw, (max-width: 1440px) 56vw, 800px" alt="Featured image for Yes, Another Blog Again" height="240" width="800"></a>
+        </div><h1 class="single-title">
+        <a href="/posts/yes-another-blog-again/">Yes, Another Blog Again</a>
     </h1><div class="post-meta">
         <span class="post-author"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"/></svg><a href="/" title="Author" rel=" author" class="author">Author</a>
-        </span>&nbsp;<span class="post-publish">published on <time datetime="2024-06-04">2024-06-04</time></span></div><div class="content"> Test post</div><div class="post-footer">
-        <a href="/posts/first_post/">Read more...</a></div>
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"/></svg><a href="/" title="Author" rel=" author" class="author">Vicyann</a>
+        </span>&nbsp;<span class="post-publish">published on <time datetime="2024-06-05">2024-06-05</time></span></div><div class="content">This is the third time I have re-created my portfolio (blog) website. Several reasons led me to this decision.
+I used wordpress engines for the previous two and the experience was not good. I couldn&rsquo;t control how my site worked and the features were too much for me to use all of them, I just wanted to write some posts. I used shared hosting for the old ones and it cost me some bucks.</div><div class="post-footer">
+        <a href="/posts/yes-another-blog-again/">Read more...</a></div>
 </article>
 </div></div>
         </main><footer class="footer">

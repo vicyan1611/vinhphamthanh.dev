@@ -21,7 +21,7 @@ theme = "DoIt"
   [params.header]
     # DoIt NEW | 0.2.11 Theme change mode
     # theme change mode ("switch", "select")
-    themeChangeMode = "select"
+    themeChangeMode = "switch"
     # DoIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO

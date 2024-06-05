@@ -68,18 +68,16 @@
             <a href="/vi/" title="vinhphamthanh.dev"><span id="desktop-header-typeit" class="typeit"></span></a>
         </div>
         <div class="menu">
-            <div class="menu-inner"><button class="menu-item language" aria-label="Chọn Ngôn ngữ">Vietnamese<svg class="icon"
+            <div class="menu-inner"><a class="menu-item"
+                    href="/vi/posts/" > Bài viết </a><a class="menu-item"
+                    href="/vi/tags/" > Nhãn </a><a class="menu-item active"
+                    href="/vi/categories/" > Danh mục </a><span class="menu-item delimiter"></span><button class="menu-item language" aria-label="Chọn Ngôn ngữ">Vietnamese<svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
                     <select class="language-select" aria-label="Chọn Ngôn ngữ" id="language-select-desktop"
                         onchange="location = this.value;"><option value="/categories/" >English</option><option value="/vi/categories/"  selected>Vietnamese</option></select>
-                </button><button class="menu-item theme-select" aria-label="Đổi chủ đề">
+                </button><button class="menu-item theme-switch" aria-label="Đổi chủ đề">
                     <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
-                    <select class="color-theme-select" id="theme-select-desktop" aria-label="Đổi chủ đề">
-                        <option value="light">Sáng</option>
-                        <option value="dark">Tối</option>
-                        <option value="auto">Tự động</option>
-                    </select>
                 </button></div>
         </div>
     </div>
@@ -93,14 +91,9 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><button class="menu-item theme-select tw-w-full" aria-label="Đổi chủ đề">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/vi/posts/" title="" >Bài viết</a><a class="menu-item" href="/vi/tags/" title="" >Nhãn</a><a class="menu-item" href="/vi/categories/" title="" >Danh mục</a><button class="menu-item theme-switch tw-w-full" aria-label="Đổi chủ đề">
                 <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
-                <select class="color-theme-select" id="theme-select-mobile" aria-label="Đổi chủ đề">
-                    <option value="light">Sáng</option>
-                    <option value="dark">Tối</option>
-                    <option value="auto">Tự động</option>
-                </select>
             </button><button class="menu-item tw-w-full" title="">Vietnamese<svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg>
                 <select class="language-select" title="" onchange="location = this.value;"><option value="/categories/" >English</option><option value="/vi/categories/"  selected>Vietnamese</option></select>

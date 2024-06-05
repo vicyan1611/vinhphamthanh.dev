@@ -2,16 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/posts/first_post/</loc><lastmod>2024-06-04T23:22:12&#43;07:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="vi"
-                        href="http://localhost:1313/vi/posts/first_post/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/posts/first_post/"
-                    /></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-06-04T23:22:12&#43;07:00</lastmod><xhtml:link
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-06-05T23:18:05&#43;07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="vi"
                         href="http://localhost:1313/vi/posts/"
@@ -20,7 +11,7 @@
                     hreflang="en"
                     href="http://localhost:1313/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-06-04T23:22:12&#43;07:00</lastmod><xhtml:link
+            <loc>http://localhost:1313/</loc><lastmod>2024-06-05T23:18:05&#43;07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="vi"
                         href="http://localhost:1313/vi/"
@@ -28,6 +19,15 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://localhost:1313/"
+                    /></url><url>
+            <loc>http://localhost:1313/posts/yes-another-blog-again/</loc><lastmod>2024-06-05T23:18:05&#43;07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="vi"
+                        href="http://localhost:1313/vi/posts/yes-another-blog-again/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/posts/yes-another-blog-again/"
                     /></url><url>
             <loc>http://localhost:1313/categories/</loc><xhtml:link
                         rel="alternate"
