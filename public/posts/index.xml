@@ -3,7 +3,16 @@
         <title>All Posts - vinhphamthanh.dev</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | vinhphamthanh.dev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jun 2024 23:18:05 &#43;0700</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 26 Jun 2024 18:52:55 &#43;0700</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Gaming on Nixos</title>
+    <link>http://localhost:1313/posts/gaming-on-nixos/</link>
+    <pubDate>Wed, 26 Jun 2024 18:52:55 &#43;0700</pubDate><author>
+        <name>Vicyann</name>
+    </author><guid>http://localhost:1313/posts/gaming-on-nixos/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/gaming-on-nixos/featured.png" referrerpolicy="no-referrer">
+            </div>I want to write this post to help me in the future, in case there are things happen, I need to reinstall NixOS again or figure out what happens with my systems. Because of the non-FHS and declarative nature of NixOS, it is harder than other distros when we want to do something or install some apps. I also hope that this post can also be a reference for other users too.]]></description>
+</item><item>
     <title>Yes, Another Blog Again</title>
     <link>http://localhost:1313/posts/yes-another-blog-again/</link>
     <pubDate>Wed, 05 Jun 2024 23:18:05 &#43;0700</pubDate><author>
