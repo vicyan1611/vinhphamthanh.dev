@@ -3,7 +3,14 @@
         <title>Tất cả Bài viết - vinhphamthanh.dev</title>
         <link>http://localhost:1313/vi/posts/</link>
         <description>Tất cả Bài viết | vinhphamthanh.dev</description>
-        <generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Wed, 26 Jun 2024 18:52:55 &#43;0700</lastBuildDate><atom:link href="http://localhost:1313/vi/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Fri, 28 Jun 2024 22:55:53 &#43;0700</lastBuildDate><atom:link href="http://localhost:1313/vi/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Why I Use Nixos</title>
+    <link>http://localhost:1313/vi/posts/why-i-use-nixos/</link>
+    <pubDate>Fri, 28 Jun 2024 22:55:53 &#43;0700</pubDate><author>
+        <name>Vicyann</name>
+    </author><guid>http://localhost:1313/vi/posts/why-i-use-nixos/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Gaming on Nixos</title>
     <link>http://localhost:1313/vi/posts/gaming-on-nixos/</link>
     <pubDate>Wed, 26 Jun 2024 18:52:55 &#43;0700</pubDate><author>

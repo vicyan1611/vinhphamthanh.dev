@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/vicyann/side_works/vinhphamthanh.dev",
+	"sourceRoot": "/home/vicyann/Side_Works/vinhphamthanh.dev",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",
