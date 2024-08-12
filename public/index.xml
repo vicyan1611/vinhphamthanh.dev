@@ -3,9 +3,18 @@
         <title>vinhphamthanh.dev</title>
         <link>http://localhost:1313/</link>
         <description>vinhphamthanh.dev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 28 Jun 2024 22:55:53 &#43;0700</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 12 Aug 2024 21:28:08 &#43;0700</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Install and config Wokwi for VS Code</title>
+    <link>http://localhost:1313/posts/config-wokwi-for-vscode/</link>
+    <pubDate>Mon, 12 Aug 2024 21:28:08 &#43;0700</pubDate><author>
+        <name>Vicyann</name>
+    </author><guid>http://localhost:1313/posts/config-wokwi-for-vscode/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/config-wokwi-for-vscode/featured.png" referrerpolicy="no-referrer">
+            </div>Before finishing the semester, we need to create an IoT device with an ESP32 board (we can use a real board or a simulator, though). We decided to use the simulator which is Wokwi to save costs. But the simulator has a long compile time on the web, so we need to use the local version which is Wokwi for VS Code. Having completed the installation and the setup process, I thought I would share my experience because the tutorial on the internet was not clear enough for my friends to follow.]]></description>
+</item><item>
     <title>Why I use NixOS and my experience with that system</title>
     <link>http://localhost:1313/posts/why-i-use-nixos/</link>
     <pubDate>Fri, 28 Jun 2024 22:55:53 &#43;0700</pubDate><author>
