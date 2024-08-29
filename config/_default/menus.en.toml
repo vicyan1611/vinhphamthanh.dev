@@ -26,5 +26,12 @@
   url = "/categories/"
   title = ""
   weight = 3
-
+[[main]]
+  identifier = "about"
+  pre = ""
+  post = ""
+  name = "About"
+  url = "/about/"
+  title = ""
+  weight = 4
 
