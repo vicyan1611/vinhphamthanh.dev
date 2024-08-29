@@ -1,7 +1,7 @@
 [footer]
   enable = true
 [page]
-  [page.commment]
+  [page.comment]
     enable = true
     [page.comment.giscus]
         enable = true
