@@ -43,7 +43,6 @@ theme = "DoIt"
     cursorChar = "|"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
     duration = -1
-
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
