@@ -43,6 +43,27 @@ theme = "DoIt"
     cursorChar = "|"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
     duration = -1
+
+  [params.page]
+    [params.page.comment]
+      enable = true
+      [params.page.comment.giscus]
+        enable = true
+        # owner/repo
+        dataRepo = "vicyan1611/vinhphamthanh.dev-comments"
+        dataRepoId = "R_kgDOMp5Obw"
+        dataCategory = "General"
+        dataCategoryId = "DIC_kwDOMp5Ob84CiB0J"
+        dataMapping = "pathname"
+        dataStrict = "0"
+        dataReactionsEnabled = "1"
+        dataEmitMetadata = "0"
+        dataInputPosition = "bottom"
+        lightTheme = "light"
+        darkTheme = "dark"
+        dataLang = "en"
+        dataLoading = "lazy"
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
