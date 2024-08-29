@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tất cả Bài viết - vinhphamthanh.dev</title>
+        <link>http://localhost:1313/vi/posts/</link>
+        <description>Tất cả Bài viết | vinhphamthanh.dev</description>
+        <generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Mon, 12 Aug 2024 21:28:08 &#43;0700</lastBuildDate><atom:link href="http://localhost:1313/vi/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Config Wokwi for Vscode</title>
+    <link>http://localhost:1313/vi/posts/config-wokwi-for-vscode/</link>
+    <pubDate>Mon, 12 Aug 2024 21:28:08 &#43;0700</pubDate><author>
+        <name>Vicyann</name>
+    </author><guid>http://localhost:1313/vi/posts/config-wokwi-for-vscode/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Why I Use Nixos</title>
+    <link>http://localhost:1313/vi/posts/why-i-use-nixos/</link>
+    <pubDate>Fri, 28 Jun 2024 22:55:53 &#43;0700</pubDate><author>
+        <name>Vicyann</name>
+    </author><guid>http://localhost:1313/vi/posts/why-i-use-nixos/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Gaming on Nixos</title>
+    <link>http://localhost:1313/vi/posts/gaming-on-nixos/</link>
+    <pubDate>Wed, 26 Jun 2024 18:52:55 &#43;0700</pubDate><author>
+        <name>Vicyann</name>
+    </author><guid>http://localhost:1313/vi/posts/gaming-on-nixos/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Yes, Another Blog Again</title>
+    <link>http://localhost:1313/vi/posts/yes-another-blog-again/</link>
+    <pubDate>Wed, 05 Jun 2024 23:18:05 &#43;0700</pubDate><author>
+        <name>Vicyann</name>
+    </author><guid>http://localhost:1313/vi/posts/yes-another-blog-again/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
