@@ -40,6 +40,8 @@ You will need at least 16 GB of RAM, no matter what you plan to do. If you’re 
 
 At least a 512 GB SSD. Trust me, you'll need to install and use a lot of software and IDEs. More storage also provides greater flexibility; you won't have to constantly decide which programs to uninstall when you need to install new ones. Additionally, having ample storage can improve overall system performance and allow for better management of your projects and files. Investing in more storage now can save you from potential hassles and limitations in the future.
 
+If you choose a MacBook, you can choose the 256GB version and buy an external SSD. This combination will save you some bucks.
+
 ## Battery
 
 Buy a laptop with decent battery life; you won’t always be at home or have access to a charger everywhere you go. Not all locations will have an available electrical socket. Consider choosing a laptop without a discrete GPU and one that features the latest Intel Core Ultra or AMD Ryzen Gen 5 chip. These newer chips are better at energy efficiency, helping extend your laptop's battery life.
