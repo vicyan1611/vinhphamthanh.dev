@@ -2,7 +2,7 @@
 title = 'Buying a new laptop for programming'
 date = 2024-09-04T11:53:43+07:00
 author = 'Vicyann'
-featuredImage = '/featured.jpg'
+featuredImage = 'featured.jpg'
 draft = false
 +++
 
