@@ -2,18 +2,22 @@
 title = 'My Journey Through Breath of the Wild'
 date = 2024-11-21T14:06:03+07:00
 author = 'Vicyann'
-featuredImage = ''
+featuredImage = 'featured.jpg'
 draft = false
 categories = ['games']
 +++
 
 > Sharing my 100-hour adventure in Hyrule
 
+_This review may contain spoilers._
+
 ## Why I Started Playing
 
 I spent over 100 hours exploring the world of Breath of the Wild on my Nintendo Switch. As someone who loves both gaming and taking time to appreciate experiences, this game gave me exactly what I was looking for - a vast world where I could explore at my own pace and discover things that personally connected with me.
 
 ## The World Feels Like Home
+
+![Faron Region](faron.jpg)
 
 One of my favorite parts of the game is the Faron region, which really connected with me as someone from Southeast Asia. The tropical environment, with its frequent rain and thunder, feels incredibly familiar. Finding durian and banana trees made me smile - it's not often you see these fruits in video games! The attention to detail in creating this environment makes exploring feel special and personally meaningful.
 
@@ -22,6 +26,8 @@ One of my favorite parts of the game is the Faron region, which really connected
 The villages in this game became my favorite places to just exist and relax. Kakariko and Hateno villages, with their beautiful music and architecture, are so peaceful that sometimes I just open the game to walk around and listen to the soundtrack. Each village has its own personality, and the music perfectly matches the atmosphere - something I really appreciate as a player who values these quiet, peaceful moments.
 
 ## Building a Community: Tarrey Town
+
+![Akkala Region](akkala.jpg)
 
 The Tarrey Town quest is probably my favorite side activity in the game. It's amazing to watch a town grow from nothing, finding different people to help build it, and learning their stories along the way. Yes, collecting wood and finding specific characters takes time, but seeing the town get bigger and eventually celebrating a wedding there makes it all worth it. It shows how a game can make you feel like you're really making a difference in its world.
 
