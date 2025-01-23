@@ -45,8 +45,6 @@ One significant hurdle was our lack of experience working together as a team. We
 
 As the final hours approached, exhaustion set in. The early morning air was thick with fatigue, but we, along with the other teams, were determined to push through. We spent those last moments huddled together, fueled by adrenaline and a shared desire to see our game come to life.
 
-![Our team at 3am](3am.jpg)
-
 I remember my teammate and I, barely able to keep our eyes open, still pecking away at the code, fixing one bug after another. We decided to prioritize bug fixes over new features, ensuring that our other team members could record a demo video.
 
 ## Lessons from the Bubble
